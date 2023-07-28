@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Bv.Acesso.Api/1.0.0": {
+        "dependencies": {
+          "Bv.Acesso.Dominio": "1.0.0"
+        },
         "runtime": {
           "Bv.Acesso.Api.dll": {}
+        }
+      },
+      "Bv.Acesso.Dominio/1.0.0": {
+        "runtime": {
+          "Bv.Acesso.Dominio.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Bv.Acesso.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bv.Acesso.Dominio/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

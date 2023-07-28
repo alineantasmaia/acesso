@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Tya+3JX7cBXBQXCxSRvnsj8WAev4hZxqXsyf5pn3P/oxe5L3XH546q20TAv2X5yjn1CuQ3n14Ew0nbbHyepBOQ==",
+  "dgSpecHash": "jc3G6n20HcLh07wGrOpk1WjsDq9eaXaEvR4p4B8NEXnuYF+KsQVb3nKoURAPpHOwH244e+UQw59WLG6FfAzmYQ==",
   "success": true,
   "projectFilePath": "C:\\Workspace\\BV\\acesso\\Bv.Acesso.Api\\Bv.Acesso.Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Consultor\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -24,3 +24,6 @@ C:\Workspace\BV\acesso\Bv.Acesso.Api\obj\Debug\net6.0\refint\Bv.Acesso.Api.dll
 C:\Workspace\BV\acesso\Bv.Acesso.Api\obj\Debug\net6.0\Bv.Acesso.Api.pdb
 C:\Workspace\BV\acesso\Bv.Acesso.Api\obj\Debug\net6.0\Bv.Acesso.Api.genruntimeconfig.cache
 C:\Workspace\BV\acesso\Bv.Acesso.Api\obj\Debug\net6.0\ref\Bv.Acesso.Api.dll
+C:\Workspace\BV\acesso\Bv.Acesso.Api\bin\Debug\net6.0\Bv.Acesso.Dominio.dll
+C:\Workspace\BV\acesso\Bv.Acesso.Api\bin\Debug\net6.0\Bv.Acesso.Dominio.pdb
+C:\Workspace\BV\acesso\Bv.Acesso.Api\obj\Debug\net6.0\Bv.Acesso.Api.csproj.CopyComplete
