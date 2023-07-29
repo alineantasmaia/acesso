@@ -6,6 +6,7 @@ using Bv.Acesso.Dominio.Interfaces.Servicos;
 namespace Bv.Acesso.Api.Controllers
 {
     [ApiVersion("1")]
+    [Route("apiInterface/v{version:apiversion}")]
     [ApiController]
     public class InterfaceController : Controller
     {
@@ -26,8 +27,12 @@ namespace Bv.Acesso.Api.Controllers
             catch (Exception ex)
             {
                 return BadRequest(ex.Message);
-            }
-            
+            }            
+        }
+        [HttpGet("Teste")]
+        public async Task<IActionResult> Get() 
+        {
+            return Ok("Conexao realizada.");
         }
     }
 }

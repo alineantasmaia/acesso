@@ -5,11 +5,12 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace Bv.Acesso.Api.Configuracoes
 {
-    public class InjecaoDependenciaConfiguracoes
+    public static class InjecaoDependenciaConfiguracoes
     {
-        public static void RegisterInjecaoDependencia(IServiceCollection services)
+        public static void AddInjecaoDependenciaConfig(this IServiceCollection services)
         {
-            services.AddScoped<IServicoFundTransfer, ServicoFundTransfer>();
+            services.AddScoped<IServicoFundTransfer, ServicoFundTransfer>();            
+            services.AddSingleton<IServicoFundTransfer, ServicoFundTransfer>();
         }
     }
 }

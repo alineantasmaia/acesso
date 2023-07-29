@@ -1,13 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Bv.Acesso.Dominio.Dto;
+using Bv.Acesso.Dominio.Interfaces.Servicos;
 
 namespace Bv.Acesso.Dominio.Services
 {
-    public class ServicoFundTransfer
+    public class ServicoFundTransfer : IServicoFundTransfer
     {
-        public int ID { get; set; }
+        public ServicoFundTransfer()
+        {
+                
+        }
+        public Task Executar(FundTransferDto fundTransfer)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
