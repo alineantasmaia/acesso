@@ -1,0 +1,15 @@
+C:\Workspace\BV\acesso\Bv.Acesso.Infra\obj\x64\Debug\net6.0\Bv.Acesso.Infra.csproj.AssemblyReference.cache
+C:\Workspace\BV\acesso\Bv.Acesso.Infra\obj\x64\Debug\net6.0\Bv.Acesso.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\BV\acesso\Bv.Acesso.Infra\obj\x64\Debug\net6.0\Bv.Acesso.Infra.AssemblyInfoInputs.cache
+C:\Workspace\BV\acesso\Bv.Acesso.Infra\obj\x64\Debug\net6.0\Bv.Acesso.Infra.AssemblyInfo.cs
+C:\Workspace\BV\acesso\Bv.Acesso.Infra\obj\x64\Debug\net6.0\Bv.Acesso.Infra.csproj.CoreCompileInputs.cache
+C:\Workspace\BV\acesso\Bv.Acesso.Infra\bin\x64\Debug\net6.0\Bv.Acesso.Infra.deps.json
+C:\Workspace\BV\acesso\Bv.Acesso.Infra\bin\x64\Debug\net6.0\Bv.Acesso.Infra.dll
+C:\Workspace\BV\acesso\Bv.Acesso.Infra\bin\x64\Debug\net6.0\Bv.Acesso.Infra.pdb
+C:\Workspace\BV\acesso\Bv.Acesso.Infra\bin\x64\Debug\net6.0\Bv.Acesso.Dominio.dll
+C:\Workspace\BV\acesso\Bv.Acesso.Infra\bin\x64\Debug\net6.0\Bv.Acesso.Dominio.pdb
+C:\Workspace\BV\acesso\Bv.Acesso.Infra\obj\x64\Debug\net6.0\Bv.Acesso.Infra.csproj.CopyComplete
+C:\Workspace\BV\acesso\Bv.Acesso.Infra\obj\x64\Debug\net6.0\Bv.Acesso.Infra.dll
+C:\Workspace\BV\acesso\Bv.Acesso.Infra\obj\x64\Debug\net6.0\refint\Bv.Acesso.Infra.dll
+C:\Workspace\BV\acesso\Bv.Acesso.Infra\obj\x64\Debug\net6.0\Bv.Acesso.Infra.pdb
+C:\Workspace\BV\acesso\Bv.Acesso.Infra\obj\x64\Debug\net6.0\ref\Bv.Acesso.Infra.dll

@@ -1,0 +1,12 @@
+C:\Workspace\BV\acesso\Bv.Acesso.Dominio\bin\x64\Debug\net6.0\Bv.Acesso.Dominio.deps.json
+C:\Workspace\BV\acesso\Bv.Acesso.Dominio\bin\x64\Debug\net6.0\Bv.Acesso.Dominio.dll
+C:\Workspace\BV\acesso\Bv.Acesso.Dominio\bin\x64\Debug\net6.0\Bv.Acesso.Dominio.pdb
+C:\Workspace\BV\acesso\Bv.Acesso.Dominio\obj\x64\Debug\net6.0\Bv.Acesso.Dominio.csproj.AssemblyReference.cache
+C:\Workspace\BV\acesso\Bv.Acesso.Dominio\obj\x64\Debug\net6.0\Bv.Acesso.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\BV\acesso\Bv.Acesso.Dominio\obj\x64\Debug\net6.0\Bv.Acesso.Dominio.AssemblyInfoInputs.cache
+C:\Workspace\BV\acesso\Bv.Acesso.Dominio\obj\x64\Debug\net6.0\Bv.Acesso.Dominio.AssemblyInfo.cs
+C:\Workspace\BV\acesso\Bv.Acesso.Dominio\obj\x64\Debug\net6.0\Bv.Acesso.Dominio.csproj.CoreCompileInputs.cache
+C:\Workspace\BV\acesso\Bv.Acesso.Dominio\obj\x64\Debug\net6.0\Bv.Acesso.Dominio.dll
+C:\Workspace\BV\acesso\Bv.Acesso.Dominio\obj\x64\Debug\net6.0\refint\Bv.Acesso.Dominio.dll
+C:\Workspace\BV\acesso\Bv.Acesso.Dominio\obj\x64\Debug\net6.0\Bv.Acesso.Dominio.pdb
+C:\Workspace\BV\acesso\Bv.Acesso.Dominio\obj\x64\Debug\net6.0\ref\Bv.Acesso.Dominio.dll

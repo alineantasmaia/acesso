@@ -1,0 +1,5 @@
+C:\Workspace\BV\acesso\Bv.Acesso.Infra\obj\x86\Debug\netcoreapp3.1\Bv.Acesso.Infra.csproj.AssemblyReference.cache
+C:\Workspace\BV\acesso\Bv.Acesso.Infra\obj\x86\Debug\netcoreapp3.1\Bv.Acesso.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\BV\acesso\Bv.Acesso.Infra\obj\x86\Debug\netcoreapp3.1\Bv.Acesso.Infra.AssemblyInfoInputs.cache
+C:\Workspace\BV\acesso\Bv.Acesso.Infra\obj\x86\Debug\netcoreapp3.1\Bv.Acesso.Infra.AssemblyInfo.cs
+C:\Workspace\BV\acesso\Bv.Acesso.Infra\obj\x86\Debug\netcoreapp3.1\Bv.Acesso.Infra.csproj.CoreCompileInputs.cache

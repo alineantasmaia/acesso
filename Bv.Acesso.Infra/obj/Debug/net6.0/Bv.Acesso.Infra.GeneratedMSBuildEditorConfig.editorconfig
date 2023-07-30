@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Bv.Acesso.Infra
-build_property.ProjectDir = C:\Workspace\BV\acesso\Bv.Acesso.Infra\
+build_property.ProjectDir = c:\Workspace\BV\acesso\Bv.Acesso.Infra\

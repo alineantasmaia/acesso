@@ -1,22 +1,45 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
-  <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+  <PropertyGroup>	  
+    <TargetFramework>net6.0</TargetFramework>	
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+	<Platforms>x64</Platforms>
+	<EnableSdkContainerSupport>true</EnableSdkContainerSupport>
+	<UserSecretsId>4eb23a4d-b819-4c9a-920d-108ea4751559</UserSecretsId>
+	<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
+	<ItemGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x64'">
+		<Reference Include="Bv.Acesso.Api">
+			<HintPath>..\..\..\..\bin\x64\Debug\net6.0\Bv.Acesso.Api.dll</HintPath>
+		</Reference>
+	</ItemGroup>
 
-  <ItemGroup>
-    <Compile Remove="Models\**" />
-    <Content Remove="Models\**" />
-    <EmbeddedResource Remove="Models\**" />
-    <None Remove="Models\**" />
-  </ItemGroup>
+	<ItemGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x64'">
+		<Reference Include="Bv.Acesso.Api">
+			<HintPath>..\..\..\..\bin\x64\Release\net6.0\Bv.Acesso.Api.dll</HintPath>
+		</Reference>
+	</ItemGroup>
 
+	<ItemGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86'">
+		<Reference Include="Bv.Acesso.Api">
+			<HintPath>..\..\..\..\bin\x86\Debug\net6.0\Bv.Acesso.Api.dll</HintPath>
+			<Private>True</Private>
+		</Reference>
+	</ItemGroup>
+
+	<ItemGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86'">
+		<Reference Include="Bv.Acesso.Api">
+			<HintPath>..\..\..\..\bin\x86\Release\net6.0\Bv.Acesso.Api.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+
+	
   <ItemGroup>
     <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="8.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.1.0" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="5.1.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.18.1" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>

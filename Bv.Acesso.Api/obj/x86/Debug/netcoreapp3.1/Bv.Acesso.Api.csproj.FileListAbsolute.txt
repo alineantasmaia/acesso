@@ -1,0 +1,6 @@
+C:\Workspace\BV\acesso\Bv.Acesso.Api\obj\x86\Debug\netcoreapp3.1\Bv.Acesso.Api.csproj.AssemblyReference.cache
+C:\Workspace\BV\acesso\Bv.Acesso.Api\obj\x86\Debug\netcoreapp3.1\Bv.Acesso.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\BV\acesso\Bv.Acesso.Api\obj\x86\Debug\netcoreapp3.1\Bv.Acesso.Api.AssemblyInfoInputs.cache
+C:\Workspace\BV\acesso\Bv.Acesso.Api\obj\x86\Debug\netcoreapp3.1\Bv.Acesso.Api.AssemblyInfo.cs
+C:\Workspace\BV\acesso\Bv.Acesso.Api\obj\x86\Debug\netcoreapp3.1\Bv.Acesso.Api.csproj.CoreCompileInputs.cache
+C:\Workspace\BV\acesso\Bv.Acesso.Api\obj\x86\Debug\netcoreapp3.1\Bv.Acesso.Api.MvcApplicationPartsAssemblyInfo.cache

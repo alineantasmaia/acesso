@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "C0U+D5cewju9bdDBYAbnbgoA2UfWDw+FFNUF5daCjoYOhIZuaMHi28dfD1Ke806qUYlpBCXwwdqY4hpMs/RcKw==",
+  "dgSpecHash": "SjSDG5HQmiIRoSdzFOGObOPnAoPb4lXdJ3fr+7UoTvopcHrsjdk2CnzZzD+gqMOJnoeblwQ0nj37Kx3joFwGJA==",
   "success": true,
   "projectFilePath": "C:\\Workspace\\BV\\acesso\\Bv.Acesso.Dominio\\Bv.Acesso.Dominio.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Consultor\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\Consultor\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Consultor\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

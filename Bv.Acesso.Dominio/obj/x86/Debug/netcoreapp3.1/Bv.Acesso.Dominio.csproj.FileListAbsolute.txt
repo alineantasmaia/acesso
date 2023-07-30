@@ -1,0 +1,5 @@
+C:\Workspace\BV\acesso\Bv.Acesso.Dominio\obj\x86\Debug\netcoreapp3.1\Bv.Acesso.Dominio.csproj.AssemblyReference.cache
+C:\Workspace\BV\acesso\Bv.Acesso.Dominio\obj\x86\Debug\netcoreapp3.1\Bv.Acesso.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\BV\acesso\Bv.Acesso.Dominio\obj\x86\Debug\netcoreapp3.1\Bv.Acesso.Dominio.AssemblyInfoInputs.cache
+C:\Workspace\BV\acesso\Bv.Acesso.Dominio\obj\x86\Debug\netcoreapp3.1\Bv.Acesso.Dominio.AssemblyInfo.cs
+C:\Workspace\BV\acesso\Bv.Acesso.Dominio\obj\x86\Debug\netcoreapp3.1\Bv.Acesso.Dominio.csproj.CoreCompileInputs.cache

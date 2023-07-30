@@ -10,7 +10,7 @@ namespace Bv.Acesso.Api
 
         public static IHostBuilder GetHostBuilder(string[] args) => Host.CreateDefaultBuilder(args).UseServiceProviderFactory(new AutofacServiceProviderFactory()).ConfigureWebHostDefaults(webBuilder =>
         {            
-            webBuilder.UseUrls("https://*:8080").UseStartup<Startup>();
+            webBuilder.UseUrls("https://*:32772").UseStartup<Startup>();
         });
     }
 }

@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "4hMzRYJmjzEe9rgOg2lj/wObHCrKpNMNafmGqtiHnaVU1ELEM/SKj7I7T97AwvsIpm6ZZN9THhXw7tfDslYGsw==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\BV\\acesso\\Bv.Acesso.Api\\Bv.Acesso.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Consultor\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\Consultor\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Consultor\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
+    "C:\\Users\\Consultor\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.1.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.1.0.nupkg.sha512",
+    "C:\\Users\\Consultor\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Consultor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Consultor\\.nuget\\packages\\microsoft.net.build.containers\\7.0.306\\microsoft.net.build.containers.7.0.306.nupkg.sha512",
+    "C:\\Users\\Consultor\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Consultor\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Consultor\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Consultor\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Consultor\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Consultor\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\Consultor\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\Consultor\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.20\\microsoft.netcore.app.runtime.linux-x64.6.0.20.nupkg.sha512",
+    "C:\\Users\\Consultor\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.20\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.20.nupkg.sha512",
+    "C:\\Users\\Consultor\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.20\\microsoft.netcore.app.host.linux-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
